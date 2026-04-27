@@ -47,7 +47,7 @@ Before tuning, I was guessing hyperparameters. After GridSearchCV, I understood 
 
 About Me
 I am a data science learner focused on building complete projects — from raw CSV to deployed application. I do not stop at the notebook.
-* GitHub: [your-username](https://github.com/sourabh9098/)
+* GitHub: https://github.com/sourabh9098/
 * LinkedIn: www.linkedin.com/in/sourabh9098
 * Email: www.sourabh555@gmail.com
 Not just a model. A product.
