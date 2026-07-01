@@ -50,5 +50,5 @@ I am a data science learner focused on building complete projects — from raw C
 * GitHub: https://github.com/sourabh9098/
 * LinkedIn: www.linkedin.com/in/sourabh9098
 * Email: www.sourabh555@gmail.com
-Not just a model. A product.
+Not just a model A product
 
