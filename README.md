@@ -41,7 +41,7 @@ Dashboard.png                 # App screenshot
 requirements.txt
 README.md
 
-What I Learned
+What I Learned :-
 Random Forest was a clear step up from Decision Tree — the ensemble approach of combining many trees made a real difference in generalisation. But what GridSearchCV taught me was more valuable than the accuracy gain itself.
 Before tuning, I was guessing hyperparameters. After GridSearchCV, I understood why certain values of n_estimators and max_depth work better for this kind of data. That shift from guessing to systematic search is something I will carry into every project going forward.
 
