@@ -20,6 +20,7 @@ Model 1	Trained Decision Tree Regressor — baseline model
 Model 2	Trained Random Forest Regressor — significant improvement over Decision Tree
 Tuning	Applied GridSearchCV on Random Forest to find the best hyperparameters
 Deployment	Built full Streamlit web app with real-time prediction and delivery insights
+
 Model Results
 Model	R2 Score (Test)	MAE	MSE
 Random Forest + GridSearchCV	0.7779	6.96 min	107.81
