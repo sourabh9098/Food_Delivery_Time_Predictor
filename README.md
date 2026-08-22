@@ -1,5 +1,5 @@
 Food Delivery Time Prediction
-Predicts how long a food delivery will take based on real conditions — distance, weather, traffic, vehicle type, and courier experience. Deployed as a live web app that anyone can use without touching code.
+Predicts how long a food delivery will take based on real conditions — distance , weather, traffic, vehicle type, and courier experience Deployed as a live web app that anyone can use without touching code
 Live Demo: https://food-delivery-time-by-sourabh.streamlit.app/
 
 
@@ -7,7 +7,7 @@ Live Demo: https://food-delivery-time-by-sourabh.streamlit.app/
 
 ![Dashboard](Dashboard.png)
 
-Problem Statement :-
+Problem Statement -
 Delivery time estimation is one of the most important parts of the food delivery experience. A bad estimate frustrates customers. This project builds a regression model that predicts delivery time in minutes using order and environmental conditions as input.
 
 
