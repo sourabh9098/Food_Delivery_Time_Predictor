@@ -32,7 +32,7 @@ GridSearchCV helped find the optimal combination of n_estimators, max_depth, and
 Tech Stack
 Python Pandas NumPy Scikit-learn Matplotlib Seaborn Streamlit Joblib
 
-Project Structure :-
+Project Structure -
 food-delivery-prediction
 app.py                        # Streamlit web application
 rf_model.pkl                  # Trained Random Forest model (GridSearchCV tuned)
