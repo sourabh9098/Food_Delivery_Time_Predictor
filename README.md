@@ -47,7 +47,8 @@ Random Forest was a clear step up from Decision Tree — the ensemble approach o
 Before tuning, I was guessing hyperparameters. After GridSearchCV, I understood why certain values of n_estimators and max_depth work better for this kind of data. That shift from guessing to systematic search is something I will carry into every project going forward.
 
 About Me
-I am a data science learner focused on building complete projects — from raw CSV to deployed application. I do not stop at the notebook.
+
+I am a data science learner focused on building complete project from raw CSV to deployed application i do not stop at the notebook.
 * GitHub: https://github.com/sourabh9098/
 * LinkedIn: www.linkedin.com/in/sourabh9098
 * Email: www.sourabh555@gmail.com
